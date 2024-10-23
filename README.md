@@ -1,7 +1,7 @@
-🎮 Guide d'Utilisation du Script Roblox Checker
+🎮 Guide d'Utilisation de Roblox Checker
 🚀 Prérequis
 
-Avant de vous lancer, assurez-vous d'avoir les éléments suivants :
+assurez-vous d'avoir les éléments suivants :
 
     Python 3.x
     Vérifiez son installation avec :
