@@ -1,5 +1,5 @@
-🎮 Guide d'Utilisation de Roblox Checker<br><br>
-🚀 Prérequis
+# 🎮 Guide d'Utilisation de Roblox Checker<br><br>
+## 🚀 Prérequis
 
 Assurez-vous d'avoir les éléments suivants :
 
@@ -16,7 +16,7 @@ Installez les bibliothèques nécessaires avec pip :
 WebDriver pour Firefox
 Téléchargez GeckoDriver et assurez-vous qu'il est accessible dans votre PATH.
 
-🏁 Étapes pour Exécuter le Script
+## 🏁 Étapes pour Exécuter le Script
 
 Téléchargez le Script
 Clonez le dépôt GitHub ou téléchargez le fichier directement.
@@ -49,7 +49,7 @@ Si un CAPTCHA est détecté, le script vous invitera à le résoudre manuellemen
 Fin de la Vérification
 Une fois toutes les tentatives effectuées, le script affichera un message de fin.
 
-⚙️ Résolution des Problèmes
+## ⚙️ Résolution des Problèmes
 
 Erreur de Téléchargement
 Vérifiez votre connexion Internet et l'accessibilité du lien.
@@ -60,7 +60,7 @@ Assurez-vous que le fichier contient des données valides.
 Échec de Connexion
 Vérifiez l'exactitude des identifiants et la fonctionnalité des proxies.
 
-🔒 Remarques
+## 🔒 Remarques
 
 Sécurité : Faites preuve de prudence lors du test des identifiants pour des services en ligne. Respectez les conditions d'utilisation de Roblox.
 
