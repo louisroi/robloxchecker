@@ -66,4 +66,4 @@ Sécurité : Faites preuve de prudence lors du test des identifiants pour des se
 
 Utilisation des Proxies : Vous pouvez modifier la liste des proxies dans le code selon vos besoins.
     
-Si vous avez besoin de plus d'informations ou d'autres ajustements, n'hésitez pas à me contacter sur Discord !
+# Si vous avez besoin de plus d'informations ou d'autres ajustements, n'hésitez pas à me contacter sur Discord !
