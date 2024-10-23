@@ -73,3 +73,5 @@ json
     Sécurité : Faites preuve de prudence lors du test des identifiants pour des services en ligne. Respectez les conditions d'utilisation de Roblox.
 
     Utilisation des Proxies : Vous pouvez modifier la liste des proxies dans le code selon vos besoins.
+    
+Si vous avez besoin de plus d'informations ou d'autres ajustements, n'hésitez pas à me contacter sur Discord !
