@@ -20,8 +20,8 @@ init(autoreset=True)
 
 CURRENT_VERSION = "1.0.2"
 
-VERSION_URL = "https://raw.githubusercontent.com/Sukidadev/netflixchecker/refs/heads/main/latest_version.txt"
-DOWNLOAD_URL = "https://raw.githubusercontent.com/Sukidadev/netflixchecker/main/netflixchecker.py"
+VERSION_URL = "https://raw.githubusercontent.com/Sukidadev/robloxchecker/refs/heads/main/latest_version.txt"
+DOWNLOAD_URL = "https://raw.githubusercontent.com/Sukidadev/robloxchecker/refs/heads/main/robloxchecker.py"
 
 PROXIES = [
     "93291889-zone-custom-region-FR-sessid-DgtOgfNY-sessTime-60:0llEad0L@f.proxys5.net:6200",
